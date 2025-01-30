@@ -2,7 +2,7 @@
 - 👀 I’m interested in Final Fantasy & other JRPGs
 - 🌱 I’m currently learning how to create my own turn based combat game
 - 💞️ I’m looking to collaborate on nothing at the moment, but perhaps in the future!
-- 📫 How to reach me; twitter foxhound_maisey
+- 📫 How to reach me; maisey.bsky.social
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I have two ragdoll kitties
 
